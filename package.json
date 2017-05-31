@@ -1,6 +1,6 @@
 {
   "name": "diameter-sctp",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Diameter base protocol implementation using SCTP",
   "author": "Denmark Dionisio <iamdionisiodenmark@gmail.com>",
   "main": "./lib/diameter",
