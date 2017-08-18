@@ -1,6 +1,6 @@
 {
   "name": "diameter-sctp",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "description": "Diameter base protocol implementation using SCTP",
   "author": "Denmark Dionisio <iamdionisiodenmark@gmail.com>",
   "main": "./lib/diameter",
@@ -12,6 +12,6 @@
     "ipaddr.js": "^1.0.1",
     "lodash": "^3.0.0",
     "long": "^2.2.0",
-    "sctp-addon": "0.1.x"
+    "sctp-addon": "0.2.x"
   }
 }
