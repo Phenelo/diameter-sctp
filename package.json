@@ -12,6 +12,6 @@
     "ipaddr.js": "^1.0.1",
     "lodash": "^3.0.0",
     "long": "^2.2.0",
-    "sctp-addon": "0.3.x"
+    "sctp-addon": "^0.3.x"
   }
 }
